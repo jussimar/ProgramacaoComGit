@@ -1,0 +1,8 @@
+C:\Users\etec\source\repos\ProgramacaoComGit\ProgramacaoComGit\bin\Debug\ProgramacaoComGit.exe.config
+C:\Users\etec\source\repos\ProgramacaoComGit\ProgramacaoComGit\bin\Debug\ProgramacaoComGit.exe
+C:\Users\etec\source\repos\ProgramacaoComGit\ProgramacaoComGit\bin\Debug\ProgramacaoComGit.pdb
+C:\Users\etec\source\repos\ProgramacaoComGit\ProgramacaoComGit\obj\Debug\ProgramacaoComGit.csproj.AssemblyReference.cache
+C:\Users\etec\source\repos\ProgramacaoComGit\ProgramacaoComGit\obj\Debug\ProgramacaoComGit.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\source\repos\ProgramacaoComGit\ProgramacaoComGit\obj\Debug\ProgramacaoComGit.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\ProgramacaoComGit\ProgramacaoComGit\obj\Debug\ProgramacaoComGit.exe
+C:\Users\etec\source\repos\ProgramacaoComGit\ProgramacaoComGit\obj\Debug\ProgramacaoComGit.pdb
